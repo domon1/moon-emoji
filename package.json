@@ -1,0 +1,16 @@
+{
+  "name": "moon-emoji",
+  "version": "1.0.0",
+  "description": "Returns the moon emoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["emoji"],
+  "author": "Komarov_Dmitry",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/domon1/moon-emoji.git"
+  }
+}
