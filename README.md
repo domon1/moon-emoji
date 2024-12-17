@@ -14,7 +14,7 @@ $ npm install moon-emoji
 
 ```javascript
 const emoji = require('moon-emoji');
-console.log(emoji) // 🤡
+console.log(emoji) // 🌚
 ```
 
 ### License
